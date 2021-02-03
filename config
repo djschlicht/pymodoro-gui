@@ -1,0 +1,7 @@
+### How long each work and break period lasts (in minutes)
+work=40
+break=20
+
+### Put mp3 file in the pymodoro folder to change the alarm sound
+### and set sound to it's filename 
+sound=bell.mp3
